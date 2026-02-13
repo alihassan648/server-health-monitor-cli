@@ -1,0 +1,4 @@
+CPU: Usage: 1.5%, Status: OK
+MEMORY: Usage: 56.1%, Status: OK
+DISK: Usage: 2.3%, Status: OK
+UPTIME: Uptime: 21.94 hours, Status: OK

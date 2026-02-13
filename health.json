@@ -1,0 +1,21 @@
+{
+    "timestamp": "2026-02-13T06:34:03.853727",
+    "hostname": "Sohails-MacBook-Air.local",
+    "overall_status": "OK",
+    "cpu": {
+        "usage": 1.0,
+        "status": "OK"
+    },
+    "memory": {
+        "usage": 57.5,
+        "status": "OK"
+    },
+    "disk": {
+        "usage": 2.3,
+        "status": "OK"
+    },
+    "uptime": {
+        "uptime_hours": 22.59,
+        "status": "ALERT"
+    }
+}
